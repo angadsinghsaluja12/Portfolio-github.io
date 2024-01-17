@@ -235,7 +235,7 @@ section:target {
     border-radius: 50%;
     width: 0.5rem;
     height: 0.5rem;
-    background-color: red;
+    background-color: rgb(255, 0, 0);
 }
 
 .timeline-container {
